@@ -1,0 +1,38 @@
+1. Login Page
+We already have a placeholder at src / app / (public) / login / page.tsx but need to build out:
+
+Email / password login form
+Social login options(if desired)
+Form validation
+Error handling
+"Remember me" functionality
+Link to signup and forgot password
+
+2. Signup Page
+We have a placeholder at src / app / (public) / register / page.tsx:
+
+Email / password registration form
+Optional email verification flow
+Terms of service acceptance
+Password requirements validation
+Link back to login
+
+3. Forgot Password Page
+We need to create:
+
+Email input form
+Success message after submission
+Error handling
+
+4. Reset Password Page
+We need to create:
+
+New password & confirm password fields
+Password strength validation
+Success message and redirect to login
+
+5. Email Verification Page
+Optional but recommended:
+
+Confirmation page after email verification
+Resend verification email option
